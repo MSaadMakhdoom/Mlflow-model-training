@@ -34,6 +34,7 @@ python mlflow_main.py
 
 * During the execution of  code, MLflow will track the parameters, metrics, and artifacts defined within your code and store them in the MLflow server.
 * After your code execution is complete, open your web browser and enter the URL provided by the MLflow server (e.g., http://127.0.0.1:5000/) to access the MLflow UI.
-
+## Model during training Loss graph
+![output](https://github.com/MSaadMakhdoom/Mlflow-model-training/blob/main/MLflowCode/loss_graph.png)
 ## Model prediction 
 ![output](https://github.com/MSaadMakhdoom/Mlflow-model-training/blob/main/MLflowCode/predict_graph.png)
