@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadsaad/Downloads/folder/Forecasting-Stock-Market-Prices-using-Machine-Learning/MLflowCode/mlruns/668112518171174867/f3681098226d4e7895e9a1feb68a7f7e/artifacts
+end_time: 1686689265620
+entry_point_name: ''
+experiment_id: '668112518171174867'
+lifecycle_stage: active
+run_id: f3681098226d4e7895e9a1feb68a7f7e
+run_name: unruly-skunk-354
+run_uuid: f3681098226d4e7895e9a1feb68a7f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686688768961
+status: 3
+tags: []
+user_id: muhammadsaad
